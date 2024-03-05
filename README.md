@@ -7,18 +7,15 @@ Repo Algoritmos e Estruturas de Dados I
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da tecnologia, principalmente o universo dos dados, estou buscando constantemente me adquirir as habilidades necessárias para entrar no mercado como analista de dados.
 ## Sobre Mim
 
-- 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
-- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
+- 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas na Newton Paiva
+- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em Python, excel, SQL e Java
 - 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, Python, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
-- **Metodologias:** Scrum, Kanban
+- **Linguagens de Programação:** Java, Python
+- **Banco de Dados:** MySQL
 - **Ferramentas:** Git, VS Code, Eclipse
-- *[Adicione outras habilidades relevantes]*
 
 ## Projetos Destacados
 
@@ -36,7 +33,7 @@ Breve descrição do projeto e suas tecnologias principais.
 
 ## Contato
 
-- **E-mail:** [Seu E-mail]
+- **E-mail:** [lucascarvalhosantos12@hotmail.com]
 - **Twitter:** [Seu Perfil no Twitter]
 - **LinkedIn:** [Seu Perfil no LinkedIn]
 
