@@ -15,7 +15,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da tec
 
 - **Linguagens de Programação:** Java, Python
 - **Banco de Dados:** MySQL
-- **Ferramentas:** Git, VS Code, Eclipse
+- **Ferramentas:** VS Code, Eclipse
 
 ## Projetos Destacados
 
