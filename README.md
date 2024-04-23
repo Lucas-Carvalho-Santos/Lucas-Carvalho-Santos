@@ -1,5 +1,4 @@
-# algoritmos-e-estruturas-de-dados-i
-Repo Algoritmos e Estruturas de Dados I
+
 
 # Perfil do Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -15,21 +14,8 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da tec
 
 - **Linguagens de Programação:** Java, Python
 - **Banco de Dados:** MySQL
-- **Ferramentas:** VS Code, Eclipse
+- **Ferramentas:** VS Code, Eclipse, Power BI
 
-## Projetos Destacados
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
 
 ## Contato
 
