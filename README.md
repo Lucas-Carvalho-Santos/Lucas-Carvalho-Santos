@@ -1,13 +1,13 @@
 
 
-# Perfil do Estudante de Análise e Desenvolvimento de Sistemas
+# Estudante de Análise e Desenvolvimento de Sistemas.
 
 
-Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da tecnologia, principalmente o universo dos dados, estou buscando constantemente me adquirir as habilidades necessárias para entrar no mercado como analista de dados.
-## Sobre Mim
+Seja bem-vindo ao meu perfil! 👋 Sou o Lucas, tenho 28 anos, moro em BH e atualmente faço estágio em análise de dados em uma das maiores empresas de engenharia consultiva do Brasil, Draft Solutions, caso tenha interese. Sou um apaixonado pelo mundo da tecnologia, principalmente o universo dos dados, estou buscando constantemente me adquirir as habilidades necessárias para atuar como analista de dados.
+## Sobre Mim ##
 
 - 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas na Newton Paiva
-- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em Python, excel, SQL e Java
+- 🌱 **Atividades Atuais**: Elaboração de relatórios novos, manuntenção e melhoria dos relatórios existentes, documentação (manual de uso, dicionário de dados.)
 - 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
 ## Habilidades
